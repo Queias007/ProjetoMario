@@ -23,9 +23,8 @@ Veja como o projeto fica na versão Desktop:
 
 ## 📂 Como Executar o Projeto
 
-1. Clone este repositório:
-   <pre><code>git clone https://github.com/Queias007/mario-bros.git</code></pre>
-2. Abra o arquivo `index.html` no seu navegador para visualizar o projeto.
+   <pre><code>https://queias007.github.io/ProjetoMario/</code></pre>
+
 
 ---
 
