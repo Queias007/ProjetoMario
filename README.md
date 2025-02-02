@@ -21,6 +21,26 @@ Veja como o projeto fica na versão Desktop:
 
 ---
 
+## 🖥️ Header Personalizado
+
+O **header** do site foi desenvolvido com uma leve transição ao passar o mouse, proporcionando uma interação dinâmica ao usuário.
+
+<p align="center">
+  <img src="assets/readme/2.jpeg" width="40%" alt="Visual do header com transição">
+</p>
+
+---
+
+## 📝 Formulário Simples
+
+O site inclui um **formulário simples** com um design limpo e funcional, pensado para ser fácil de usar.
+
+<p align="center">
+  <img src="assets/readme/3.jpeg" width="80%" alt="Visual do formulário do site">
+</p>
+
+---
+
 ## 📂 Como Executar o Projeto
 
    <pre><code>https://queias007.github.io/ProjetoMario/</code></pre>
@@ -33,7 +53,6 @@ Veja como o projeto fica na versão Desktop:
 O projeto conta com:
 
 - **Cores vibrantes e dinâmicas**, inspiradas no universo de Mario Bros. 🎨
-- **Layout responsivo**, adaptado para diferentes tamanhos de tela. 📱💻
 - **Animações suaves** com transições no header e elementos interativos. ✨
 - **Formulário simples** com estilo limpo e funcional. ✍️
 
@@ -45,4 +64,4 @@ O projeto conta com:
 - **Formulário simples**: O projeto inclui um formulário simples para interação com o usuário.
 - **Design pensado para Desktop**: O layout foi projetado para funcionar perfeitamente em telas maiores, mas pode ser ajustado para dispositivos móveis no futuro.
 
----
+
